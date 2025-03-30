@@ -6,7 +6,7 @@ I have a huge interest in coding! I am currently studying all sorts of things.
 
 I have lots of skills. 
 <!--
-**nkelley-metro/nkelley-metro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nksz6/nksz6* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

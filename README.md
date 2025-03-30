@@ -1,8 +1,8 @@
 ## Hi there 👋, Welcome!
 
-Hello! ^_^ My name is Nick Kelley. I am from Metropolitan State University taking BS Computer Science. 
+Hello! ^_^ My name is Nick Kelley. I am a student at Metropolitan State University, in the BS Computer Science program. 
 
-I have a huge interest in Coding! currently studing all sorts of things.
+I have a huge interest in coding! I am currently studying all sorts of things.
 
 I have lots of skills. 
 <!--

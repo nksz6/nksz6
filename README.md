@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hi there 👋, Welcome!
 
+Hello! ^_^ My name is Nick Kelley. I am from Metropolitan State University taking BS Computer Science. 
+
+I have a huge interest in Coding! currently studing all sorts of things.
+
+I have lots of skills. 
 <!--
-**nksz6/nksz6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nkelley-metro/nkelley-metro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

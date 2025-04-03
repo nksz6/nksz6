@@ -5,6 +5,8 @@ Hello! ^_^ My name is Nick Kelley. I am a student at Metropolitan State Universi
 I have a huge interest in coding! I am currently studying all sorts of things.
 
 I have lots of skills. 
+
+I am working on projects in Java & Kotlin right now.
 <!--
 **nksz6/nksz6* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

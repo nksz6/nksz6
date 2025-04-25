@@ -8,7 +8,6 @@ I have lots of skills.
 
 I am working on projects in Java & Kotlin right now.
 
-Contact me for access to my private repositories.
 <!--
 **nksz6/nksz6* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

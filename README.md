@@ -6,7 +6,6 @@ I have a huge interest in coding! I am trying to learn new skills over the summe
 
 I am working on projects in Java & learning Docker right now.
 
-I will reorganize my repo's soon, some of it is irrelevant.  
 
 <!--
 **nksz6/nksz6* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

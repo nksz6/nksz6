@@ -4,8 +4,11 @@ Hello! My name is Nick Kelley. I am a student at Metropolitan State University, 
 
 I really enjoy programming! I am trying to learn new skills over the summer.
 
-I am working on projects in Java & learning to use Docker right now.
+My favorite language is Java, but I am in the process of "broadening my horizons". 😂
 
+I am currently working on a Landscaping Calculator using the PERN Stack!
+
+Angular is next up on my bucket list.
 
 <!--
 **nksz6/nksz6* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

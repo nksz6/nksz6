@@ -12,7 +12,7 @@ I am currently working on a Landscaping Calculator using the PERN Stack!
 
 Learning the web framework Angular.
 
-Depending on the job market when I graduate, I am considering military service or pursuing a masters.
+
 
 <!--
 **nksz6/nksz6* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

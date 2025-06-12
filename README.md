@@ -6,11 +6,11 @@ I'm in the BS Computer Science program, I'll be starting my senior year next fal
 
 I really enjoy programming! I am trying to learn new skills over the summer.
 
-My favorite language is Java, but I am in the process of "broadening my horizons". 😂
+My favorite language is Java, but I am finding other languages more useful.
 
 I am currently working on a Landscaping Calculator using the PERN Stack!
 
-Angular is next up on my bucket list.
+Learning the web framework Angular.
 
 Depending on the job market when I graduate, I am considering military service or pursuing a masters.
 

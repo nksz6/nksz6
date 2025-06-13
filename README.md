@@ -10,7 +10,7 @@ My favorite language is Java, but I am finding other languages more useful.
 
 I am currently working on a Landscaping Calculator using the PERN Stack!
 
-Learning the web framework Angular.
+Next I will build an app using the Angular web framework.
 
 
 

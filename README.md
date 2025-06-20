@@ -12,6 +12,8 @@ I am currently working on a Landscaping Calculator using the PERN Stack!
 
 Next I will build an app using the Angular web framework.
 
+You can email me at: kelley.nicholas@outlook.com
+
 
 
 <!--

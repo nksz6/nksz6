@@ -2,15 +2,15 @@
 
 Hello! My name is Nick Kelley. I am a student at Metropolitan State University.
 
-I'm in the BS Computer Science program, I'll be starting my senior year next fall. 
+I'm in the BS Computer Science program, I'll be starting my senior year in the fall. 
 
-I really enjoy programming! I am trying to learn new skills over the summer.
+I really enjoy programming! I have been learning new skills over the summer.
 
-My favorite language is Java, but I am finding other languages more useful.
+My favorite language is Java, but have been using a lot more JS lately. 
 
-I am currently working on a Landscaping Calculator using the PERN Stack!
+I am currently working on a Landscaping Calculator using the PERN Stack.
 
-Next I will build an app using the Angular web framework.
+Also learning how to use the Angular web framework.
 
 You can email me at: kelley.nicholas@outlook.com
 

@@ -6,11 +6,9 @@ I'm in the BS Computer Science program, I'll be starting my senior year in the f
 
 I really enjoy programming! I have been learning new skills over the summer.
 
-My favorite language is Java, but have been using a lot more JS lately. 
+I am currently working on https://github.com/nksz6/Landscape-Calculator.
 
-I am currently working on a Landscaping Calculator using the PERN Stack.
-
-Also learning how to use the Angular web framework.
+I am learning Angular and plan to use it on my next project.
 
 You can email me at: kelley.nicholas@outlook.com or go to my LinkedIn.
 

@@ -1,6 +1,6 @@
 ## Hello 👋, Welcome to my GitHub Profile!
 
-Hello! My name is Nick Kelley. I am a student at Metropolitan State University.
+Hi! My name is Nick Kelley. I am a student at Metropolitan State University.
 
 I'm in the BS Computer Science program, I'll be starting my senior year in the fall. 
 

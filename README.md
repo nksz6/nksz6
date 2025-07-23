@@ -1,4 +1,4 @@
-## Hi there 👋, Welcome!
+## Hello 👋, Welcome to my GitHub Profile!
 
 Hello! My name is Nick Kelley. I am a student at Metropolitan State University.
 

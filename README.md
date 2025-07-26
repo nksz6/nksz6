@@ -6,11 +6,13 @@ I'm in the BS Computer Science program, I'll be starting my senior year in the f
 
 I really enjoy programming! I have been learning new skills over the summer.
 
-I am currently working on https://github.com/nksz6/Landscape-Calculator.
+I’m currently developing a [Landscape Calculator](https://github.com/nksz6/Landscape-Calculator), which aims to help estimate landscaping materials and costs.
 
 I am learning Angular and plan to use it on my next project.
 
-You can email me at: kelley.nicholas@outlook.com or go to my LinkedIn.
+You can [email me](mailto:kelley.nicholas@outlook.com)
+or [connect with me on LinkedIn](https://www.linkedin.com/in/kelleynick/).
+
 
 
 
@@ -28,3 +30,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+              

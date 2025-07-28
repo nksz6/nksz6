@@ -1,8 +1,7 @@
-## Hello 👋, Welcome to my GitHub Profile!
+# *HELLO!* 👋
+<pre> welcome to my github </pre>
 
-Hi! My name is Nick Kelley. I am a student at Metropolitan State University.
-
-I'm in the BS Computer Science program, I'll be starting my senior year in the fall. 
+I'm Nick Kelley, a CS student student attending Metropolitan State University. 
 
 I really enjoy programming! I have been learning new skills over the summer.
 

@@ -1,13 +1,13 @@
 # *HELLO!* 👋
 <pre> welcome to my github </pre>
 
-I'm Nick Kelley, a CS student student attending Metropolitan State University. 
+I'm Nick Kelley, a rising seinior in the Computer Science program at Metropolitan State University. 
 
-I really enjoy programming! I have been learning new skills over the summer.
+I really enjoy programming, aside from learning new skills over the summer I completed my first internship!
 
-I’m currently developing a [Landscape Calculator](https://github.com/nksz6/Landscape-Calculator) which aims to help estimate landscaping materials and costs.
+Am currently developing a [Landscape Calculator](https://github.com/nksz6/Landscape-Calculator) which aims to help automate the bidding process for landscaping.
 
-I am learning Angular and plan to use it on my next project.
+My next project is a Angular + .NET API, deploying to Azure. 
 
 You can [email me](mailto:kelley.nicholas@outlook.com)
 or [connect with me on LinkedIn](https://www.linkedin.com/in/kelleynick/).

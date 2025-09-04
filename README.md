@@ -1,5 +1,5 @@
 # *HELLO!* 👋
-<pre> welcome to my github </pre>
+<pre> welcome to my github ^_^ </pre>
 
 I'm Nick Kelley, a seinior in the Computer Science program at Metropolitan State University. 
 

@@ -13,7 +13,7 @@ My next project is a Angular + .NET API, deploying to Azure.
 You can [email me](mailto:kelley.nicholas@outlook.com)
 or [connect with me on LinkedIn](https://www.linkedin.com/in/kelleynick/).
 
-
+<pre>┏(-_-)┛┗(-_- )┓</pre>
 
 
 <!--

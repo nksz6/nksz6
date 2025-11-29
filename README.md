@@ -8,7 +8,7 @@ I'm a Computer Science student at Metropolitan State University (graduating Summ
 
 
 ## 💻 Tech I work with<br>
-`Angular` `TypeScript` `.NET` `C#` `C` `JavaScript` `Java` `HTML/CSS` `SQL` `PostgreSQL` `Docker` `GCL` `AWS Services` `Spring Boot`<br>
+`Angular` `TypeScript` `.NET` `C#` `C` `JavaScript` `Java` `HTML/CSS` `SQL` `PostgreSQL` `Docker` `AWS Services` `Google Cloud Compute`<br>
 
 
 ## 🤝 Lets Connect<br>

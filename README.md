@@ -1,7 +1,7 @@
 # *HELLO!* 👋
 <pre> welcome to my github ^_^ </pre>
 
-I'm Nick Kelley, a senior in the Computer Science program at Metropolitan State University. 
+I'm Nick Kelley, a senior in the Computer Science program at Metropolitan State University, graduating summer 2026. 
 
 I LOVE programming. This summer I completed my first internship and it was a ton of fun!
 
@@ -10,12 +10,10 @@ It is fully functional right now and you should check out the [live demo!](https
 
 Currently working on an Angular + .NET project called KeikoKeeper, more to come on this soon.
 
-I am actively looking for employment, I graduate summer 2026.
+I am actively looking for employment, please reach out to me with opportunities!
 
 You can [email me](mailto:kelley.nicholas@outlook.com)
 or [connect with me on LinkedIn](https://www.linkedin.com/in/kelleynick/).
-
-<pre>┏(-_-)┛┗(-_- )┓</pre>
 
 
 <!--

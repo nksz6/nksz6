@@ -2,7 +2,7 @@
 I'm a Computer Science student at Metropolitan State University (graduating Summer 2026) with a passion for building software that solves real problems. This summer I completed my first internship and I am excited to graduate!<br>
 
 
-## 🖥️ What I am working on<br>
+## 🛠️ What I am working on<br>
 - Landscape Calculator — A cost estimation tool for landscaping projects. Check out the [live demo](https://nikelley.com)<br>
 - KeikoKeeper — An Angular + .NET project currently in development. More coming soon.<br>
 

@@ -1,19 +1,20 @@
-# *HELLO!* 👋
-<pre> welcome to my github ^_^ </pre>
+# *Hey, I am Nick Kelley* 👋<br>
+I'm a Computer Science student at Metropolitan State University (graduating Summer 2026) with a passion for building software that solves real problems. I recently completed my first internship and loved every minute of it!<br>
 
-I'm Nick Kelley, a senior in the Computer Science program at Metropolitan State University, graduating summer 2026. 
 
-I LOVE programming. This summer I completed my first internship and it was a ton of fun!
+## 🖥️ What I am working on<br>
+- Landscape Calculator — A cost estimation tool for landscaping projects. Check out the [live demo](https://nikelley.com)<br>
+- KeikoKeeper — An Angular + .NET project currently in development. More coming soon.<br>
 
-I recently made [Landscape Calculator](https://github.com/nksz6/Landscape-Calculator), it aims to assist with cost estimation for landscaping projects.
-It is fully functional right now and you should check out the [live demo!](https://nikelley.com)
 
-Currently working on an Angular + .NET project called KeikoKeeper, more to come on this soon.
+## 💻 Tech I work with<br>
+`Angular` `TypeScript` `.NET` `C#` `C` `JavaScript` `Java` `HTML/CSS` `SQL` `PostgreSQL` `Docker` `GCL` `AWS Services` `Spring Boot`<br>
 
-I am actively looking for employment, please reach out to me with opportunities!
 
-You can [email me](mailto:kelley.nicholas@outlook.com)
-or [connect with me on LinkedIn](https://www.linkedin.com/in/kelleynick/).
+## 🤝 Lets Connect<br>
+I'm actively looking for software development opportunities and would love to hear from you.<br>
+📧 [kelley.nicholas@outlook.com](mailto:kelley.nicholas@outlook.com)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/kelleynick/)<br>
 
 
 <!--

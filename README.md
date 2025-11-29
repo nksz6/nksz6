@@ -1,15 +1,16 @@
 # *HELLO!* 👋
 <pre> welcome to my github ^_^ </pre>
 
-I'm Nick Kelley, a seinior in the Computer Science program at Metropolitan State University. 
+I'm Nick Kelley, a senior in the Computer Science program at Metropolitan State University. 
 
-I really enjoy programming, and aside from learning new skills over the summer I completed my first internship!
+I LOVE programming. This summer I completed my first internship and it was a ton of fun!
 
-I am currently developing a [Landscape Calculator](https://github.com/nksz6/Landscape-Calculator) which aims to help automate the bidding process for landscaping.
-
+I recently made [Landscape Calculator](https://github.com/nksz6/Landscape-Calculator), it aims to assist with cost estimation for landscaping projects.
 It is fully functional right now and you should check out the [live demo!](https://nikelley.com)
 
-My next project is a Angular + .NET API, deploying to Azure. 
+Currently working on an Angular + .NET project called KeikoKeeper, more to come on this soon.
+
+I am actively looking for employment, I graduate summer 2026.
 
 You can [email me](mailto:kelley.nicholas@outlook.com)
 or [connect with me on LinkedIn](https://www.linkedin.com/in/kelleynick/).

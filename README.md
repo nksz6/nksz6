@@ -1,5 +1,5 @@
 # *Hey, I am Nick Kelley* 👋<br>
-I'm a Computer Science student at Metropolitan State University (graduating Summer 2026) with a passion for building software that solves real problems. I recently completed my first internship and loved every minute of it!<br>
+I'm a Computer Science student at Metropolitan State University (graduating Summer 2026) with a passion for building software that solves real problems. This summer I completed my first internship and I am excited to graduate!<br>
 
 
 ## 🖥️ What I am working on<br>

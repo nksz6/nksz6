@@ -3,12 +3,12 @@ I'm a Computer Science student at Metropolitan State University (graduating Summ
 
 
 ## 🛠️ What I am working on<br>
-- Landscape Calculator — A cost estimation tool for landscaping projects. Check out the [live demo](https://nikelley.com)<br>
-- KeikoKeeper — An Angular + .NET project currently in development. More coming soon.<br>
+- Landscape Calculator — A cost estimation tool for landscaping projects. Check out the [live demo](https://nikelley.com).<br>
+- KeikoKeeper — An Angular + .NET project currently in development. See my [repository](https://github.com/nksz6/KeikoKeeper).<br>
 
 
 ## 💻 Tech I work with<br>
-`Angular` `TypeScript` `.NET` `C#` `C` `JavaScript` `Java` `HTML/CSS` `SQL` `PostgreSQL` `Docker` `AWS Services` `Google Cloud Compute`<br>
+`Angular` `TypeScript` `.NET` `C#` `C` `JavaScript` `Java` `HTML/CSS` `SQL` `PostgreSQL` `Docker` `AWS Services` `Google Cloud`<br>
 
 
 ## 🤝 Lets Connect<br>

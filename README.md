@@ -12,7 +12,6 @@ I'm a Computer Science student at Metropolitan State University (graduating Summ
 
 
 ## 🤝 Lets Connect<br>
-<br>
 📧 [kelley.nicholas@outlook.com](mailto:kelley.nicholas@outlook.com)<br>
 💼 [LinkedIn](https://www.linkedin.com/in/kelleynick/)<br>
 🦗 [Landscaping Services](https://www.nxtlawn.com)<br>

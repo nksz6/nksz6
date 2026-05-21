@@ -1,10 +1,8 @@
 # *Hey, I am Nick Kelley* 👋<br>
-I'm a Computer Science student at Metropolitan State University (graduating Summer 2026) with a passion for building software that solves real problems. <br>
+I'm a Computer Science grad with a passion for combining my tech skills with real business. <br>
 
 ## 🛠️ What I am working on<br>
-- NXT Lawn — My business [website](https://nxtlawn.com).<br>
-- KeikoKeeper — Angular + .NET project [repository](https://github.com/nksz6/KeikoKeeper).<br>
-- Landscape Calculator — A cost estimation tool for landscaping projects. [live demo](https://nikelley.com).<br>
+- NXT Lawn — I am 100% focused on building my business as of May 2026. [website](https://nxtlawn.com).<br>
 
 
 ## 💻 Tech I work with<br>

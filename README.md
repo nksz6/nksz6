@@ -1,4 +1,4 @@
-# *Hey, I am Nick Kelley* 👋<br>
+# *Hey, I'm Nick Kelley* 👋<br>
 I'm a Computer Science grad with a passion for combining my tech skills with real business. <br>
 
 ## 🛠️ What I am working on<br>

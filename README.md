@@ -2,7 +2,7 @@
 I'm a Computer Science grad with a passion for combining my tech skills with real business. <br>
 
 ## 🛠️ What I am working on<br>
-- NXT Lawn — I am 100% focused on building my business as of June 2026 - [NXT Lawn](https://nxtlawn.com)<br>
+- NXT Lawn — I am 100% focused on building my business as of Summer 2026 - [NXT Lawn](https://nxtlawn.com)<br>
 
 
 ## 💻 Tech I work with<br>
